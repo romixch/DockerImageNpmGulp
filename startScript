@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Welcome to my development container"
+cd /webdev
+echo "you are in your current working directory of your host system"
+/bin/bash
