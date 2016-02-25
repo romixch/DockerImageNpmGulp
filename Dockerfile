@@ -3,6 +3,7 @@ MAINTAINER Roman Schaller <roman.schaller@gmail.com>
 
 RUN apk add --update \
 	nodejs \
+	git \
 	bash && \
 	rm -rf /var/cache/apk/*
 
